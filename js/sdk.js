@@ -99,7 +99,7 @@
   function setOpts(opts) {
     var opts = opts || {};
     this.opts = opts;
-    this.opts.baseUrl = this.opts.baseUrl || 'http://labs.play-with-docker.com';
+    this.opts.baseUrl = this.opts.baseUrl || 'http://labs.bingohuang.com';
     this.opts.ports = this.opts.ports || [];
     this.opts.ImageName = this.opts.ImageName || '';
   }
