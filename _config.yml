@@ -23,7 +23,7 @@ default-image: docker-logo.png # If there is no featured image in a post then th
 built-by: BingoHuang
 copyright:
   name: 163yun
-  link: 'http://163yun.com'
+  link: 'https://163yun.com'
 
 # Build settings
 markdown: kramdown
@@ -38,7 +38,7 @@ analytics: UA-83979019-1
 #social
 #facebook: https://www.facebook.com/docker.run
 #twitter: https://twitter.com/@docker
-github: https://www.github.com/bingohuang
+github: https://github.com/bingohuang
 
 #facebook like box
 #fb-app-id: 549480635219583
